@@ -14,7 +14,7 @@
         <!-- client -->
         <gwt.version>2.8.0-beta1</gwt.version>
         <gwtquery.version>1.4.4-SNAPSHOT</gwtquery.version>
-        <gwtp.version>1.5</gwtp.version>
+        <gwtp.version>1.6</gwtp.version>
         <gin.version>2.1.2</gin.version>
         <gwt.style>OBF</gwt.style>
 
